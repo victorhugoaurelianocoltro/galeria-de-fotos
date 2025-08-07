@@ -1,0 +1,29 @@
+{
+  "fotos": [
+    {
+      "id": 1,
+      "imagem": "https://i.postimg.cc/kXfXvhP1/20250731-085726.jpg",
+      "legenda": "Foto 1"
+    },
+    {
+      "id": 2,
+      "imagem": "https://i.postimg.cc/xdbfYfJh/20250731-085944.jpg",
+      "legenda": "Foto 2"
+    },
+    {
+      "id": 3,
+      "imagem": "https://i.postimg.cc/mDsssQG1/20250731-090230.jpg",
+      "legenda": "Foto 3"
+    },
+    {
+      "id": 4,
+      "imagem": "https://i.postimg.cc/vZCy0Jqz/20250731-090431.jpg",
+      "legenda": "Foto 4"
+    },
+    {
+      "id": 5,
+      "imagem": "https://i.postimg.cc/7L7kdKjy/20250731-090713.jpg",
+      "legenda": "Foto 5"
+    }
+  ]
+}
